@@ -6,4 +6,5 @@ We also analyzed supplier performance based on lead time, defect rate, and shipp
 Additionally, the product analysis dashboard gave insights into inventory levels, production volume, demand, and quality across different product categories.
 Based on the overall analysis, we identified key business issues such as high defect rates, longer lead times, and higher shipping costs, and suggested data-driven recommendations to improve operational efficiency, reduce costs, and enhance overall supply chain performance.
 POWER BI PDF FILE: https://drive.google.com/file/d/1KUVC71mOyJijtewC0qCwyteZlEizzHBi/view?usp=sharing
+
 POWER BI PBIX FILE: https://drive.google.com/file/d/1k8cl4HqYNi4Y9fP1c280ulzKqpa_-7lo/view?usp=sharing
